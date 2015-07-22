@@ -7,6 +7,8 @@ There is a competition called Business Professionals of America. They give us a 
 
 We are given an hour at regional level to develop the piece of code given on the prompt. Before writing the code, part of our time must be allocated to thorougly reading the prompt and rubric and understanding the task at hand. The rubric scores each component of the prompt separately, giving students the chance to prioritize certain tasks over others. In the event of a tie, the student who finishes earlier wins, so most students who win the competition do not take up the entire time unless completely necessary.
 
+Although the code appears to be a short and simple solution, much of your time in the room is spent analyzing the prompt for details that could be overlooked and acquire penalties against your score.
+
 This prompt was dedicated to computing digits of Pi using the Leibniz function. We quickly had to read the formula to understand it and implement it efficiently.
 
 ### Disclaimer
